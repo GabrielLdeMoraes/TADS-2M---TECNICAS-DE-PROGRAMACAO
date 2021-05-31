@@ -1,5 +1,3 @@
 # TADS-2M---TECNICAS-DE-PROGRAMACAO
 
-Professor Daniel tentei de muitas formas desenvolver de varias maneiras pesquisei sobre Ajax, 
-Json entre outros tipos infelizmente não vim a conseguir finalizar o projeto completamente. 
-Sinto muito mas isso foi o máximo que eu consegui.
+Está ai professor Daniel foi feito com muita dificuldade e com ajuda de muitas pessoas para tentar entender como funcionava o projeto. Mas espero que atenda a sua requisição.
