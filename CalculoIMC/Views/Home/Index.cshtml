@@ -1,0 +1,28 @@
+﻿@{
+    ViewData["Title"] = "Home Page";
+}
+
+<div class="text-center">
+    <h1 class="display-4">Bem Vindo!</h1>
+    <p>Aprenda a calcular o<a href="https://www.programafacil.com.br/calculadora-de-imc">IMC</a>.</p>
+</div>
+
+<form class="container" id="formulario">
+    <div class="col-md-5">
+        <fieldset class="form-group">
+            <legend>Calculo IMC</legend>
+            <lavel for="peso">Peso:</lavel>
+            <input type="text" name="peso" class="form-control" />
+
+            <lavel for="altura">Altura:</lavel>
+            <input type="text" name="altura" class="form-control" />
+
+            <lavel for="imc">IMC:</lavel>
+            <input type="text" name="imc" class="form-control" disabled="disabled"/>
+
+            <br/>
+            <button type="button" class="btn btn-success" onclick="calcularIMC()">
+            Calcular IMC</button>
+        </fieldset>
+    </div>
+</form>
